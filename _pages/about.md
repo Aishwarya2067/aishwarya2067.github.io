@@ -14,7 +14,7 @@ profile:
     <p>Email: aishwaryapathak2067@gmail.com</p>
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: false
