@@ -31,12 +31,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "teachings-data-science-fundamentals",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
