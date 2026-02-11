@@ -6,7 +6,7 @@ subtitle: Student · Manipal Institute of Technology · Manipal, India
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: true
   more_info: >
     <p>Manipal Institute of Technology</p>
